@@ -5,7 +5,7 @@ _A data-driven business analysis using Python, Excel, and strategic frameworks_
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This repository contains a complete sales performance analysis of **VitaSip**, a clean-label beverage company. Conducted as part of the IEUK 2025 internship program by **Bank of America**, this project simulates the work of a business analyst, covering everything from data cleaning to actionable strategy using **Porter’s Five Forces**.
 
