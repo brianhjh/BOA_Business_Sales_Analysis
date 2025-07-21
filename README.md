@@ -1,4 +1,4 @@
-# 🧃 VitaSip Sales Analysis Project
+# VitaSip Sales Analysis Project
 
 **IEUK 2025 | Bank of America Sector Skills Programme**  
 _A data-driven business analysis using Python, Excel, and strategic frameworks_
@@ -11,7 +11,7 @@ This repository contains a complete sales performance analysis of **VitaSip**, a
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Clean and prepare raw Excel sales data
 - Calculate key performance metrics:
@@ -28,7 +28,7 @@ This repository contains a complete sales performance analysis of **VitaSip**, a
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python 3.13**
 - **Jupyter Notebook** (in VSCode)
@@ -38,7 +38,7 @@ This repository contains a complete sales performance analysis of **VitaSip**, a
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 BOA_project/
 │
@@ -56,7 +56,7 @@ BOA_project/
 
 ---
 
-## 📊 Highlights of Analysis
+## Highlights of Analysis
 
 - **Product Performance**: Ranked by Sales and Gross Margin
 - **Channel Contribution**: Online vs In-Store vs Subscription profitability
@@ -68,32 +68,32 @@ BOA_project/
 
 ---
 
-## 📄 Deliverables
+## Deliverables
 
-- 📈 **Data visualizations** (bar charts, pie charts, line plots)
-- 📉 **Outlier and trend analysis**
-- 📌 **Correlation heatmap**
-- 🧠 **Strategic recommendations**
-- 📑 **Final report** (PDF)
+-  **Data visualizations** (bar charts, pie charts, line plots)
+-  **Outlier and trend analysis**
+-  **Correlation heatmap**
+-  **Strategic recommendations**
+-  **Final report** (PDF)
 
 ---
 
-## 💡 Reflections
+## Reflections
 
 This project simulates a real-world business analytics workflow, providing hands-on experience with both data science and strategic reasoning. It bridges technical insight and market analysis, preparing me for roles in business intelligence, financial strategy, and consulting.
 
 ---
 
-## 👤 Author
+## Author
 
 **Junho Ha**  
 MEng Aeronautical Engineering, Imperial College London  
 IEUK 2025 – Bank of America Sector Skills Intern  
-📫 brianhjh20@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/junho-ha-a615b5294) 
+Email: brianhjh20@gmail.com  
+LinkedIn:(https://www.linkedin.com/in/junho-ha-a615b5294) 
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
 This project was conducted as part of an educational program and is not affiliated with any real financial recommendation or insider company data.
