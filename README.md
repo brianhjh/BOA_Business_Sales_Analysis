@@ -90,7 +90,7 @@ This project simulates a real-world business analytics workflow, providing hands
 MEng Aeronautical Engineering, Imperial College London  
 IEUK 2025 – Bank of America Sector Skills Intern  
 Email: brianhjh20@gmail.com  
-LinkedIn:(https://www.linkedin.com/in/junho-ha-a615b5294) 
+LinkedIn: https://www.linkedin.com/in/junho-ha-a615b5294
 
 ---
 
